@@ -1,0 +1,7 @@
+metric,value
+raw_rows,11688
+valid_rows,11688
+start_date,2018-01-01
+end_date,2025-12-31
+missing_days_before_imputation,0
+aggregation,sum

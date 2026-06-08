@@ -1,0 +1,2 @@
+model,family,link,ar_lags,uses_calendar_exog,log_likelihood,AIC,BIC
+GARMAX,Gamma,log,"(1, 7)",True,-18905.958832012704,37879.91766402541,38073.356281681416
